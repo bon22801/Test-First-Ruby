@@ -2,14 +2,14 @@
 	display:block;
 	position:fixed;
 	right: 30px;
-	top: 10px;
+	top: 5px;
 
 }
 
 li {
 	display: inline;
-	margin: auto 4px;
-	font: 13px;
+	margin: auto 5px;
+	font-size: 13px;
 	font-family: Arial, sans-serif;
 
 }

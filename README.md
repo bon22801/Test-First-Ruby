@@ -1,2 +1,7 @@
-# google-homepage
-This is a mini-project for testing a few things.
+#The Odin Project
+HTML/CSS Project: Google Homepage
+
+This is a mini-project for practicing HTML/CSS by rebuilding Google homepage.
+
+[Project link](http://www.theodinproject.com/web-development-101/html-css)
+
