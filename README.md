@@ -1,4 +1,6 @@
 #The Odin Project
+
+
 HTML/CSS Project: Google Homepage
 
 This is a mini-project for practicing HTML/CSS by rebuilding Google homepage.
