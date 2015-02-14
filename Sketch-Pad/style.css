@@ -1,0 +1,17 @@
+.grid{
+	margin: 1px;
+	display: inline-block;
+	height: 1.5em;
+	width: 1.5em;
+	border: 1px solid black;
+
+}
+
+.new_row{
+
+	clear:both;
+}
+
+.gird-hovered{
+	background-color: blue;
+}
