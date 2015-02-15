@@ -1,3 +1,13 @@
+body{
+	text-align: center;
+}
+
+button{
+	padding: 10px 15px;
+	margin-bottom: 15px;
+	font-size:18px;
+}
+
 .grid{
 	margin: 1px;
 	display: inline-block;
@@ -8,10 +18,13 @@
 }
 
 .new_row{
-
 	clear:both;
 }
 
 .gird-hovered{
 	background-color: blue;
+}
+
+.container {
+	margin: 0px auto;
 }
