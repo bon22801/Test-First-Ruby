@@ -8,6 +8,27 @@ button{
 	font-size:18px;
 }
 
+.colors{
+	width: 30
+	height:;
+}
+
+#red{
+	background-color: red;
+}
+#blue{
+	background-color: blue;
+}
+#green{
+	background-color: green;
+}
+#white{
+	background-color: white;
+}
+#black{
+	background-color: black;
+}
+
 .grid{
 	margin: 1px;
 	display: inline-block;
@@ -21,8 +42,20 @@ button{
 	clear:both;
 }
 
-.gird-hovered{
+.red{
+	background-color: red;
+}
+.blue{
 	background-color: blue;
+}
+.green{
+	background-color: green;
+}
+.white{
+	background-color: white;
+}
+.black{
+	background-color: black;
 }
 
 .container {
